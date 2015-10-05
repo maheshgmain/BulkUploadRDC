@@ -148,7 +148,7 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 81F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 139F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 103F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 145F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 147F));
             this.tableLayoutPanel1.Controls.Add(this.lblimportedcount, 4, 0);
             this.tableLayoutPanel1.Controls.Add(this.btoCancel, 5, 0);
             this.tableLayoutPanel1.Controls.Add(this.btoStart, 0, 0);
@@ -172,7 +172,7 @@
             this.lblimportedcount.BackColor = System.Drawing.Color.Transparent;
             this.lblimportedcount.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblimportedcount.ForeColor = System.Drawing.Color.Black;
-            this.lblimportedcount.Location = new System.Drawing.Point(454, 1);
+            this.lblimportedcount.Location = new System.Drawing.Point(452, 1);
             this.lblimportedcount.Name = "lblimportedcount";
             this.lblimportedcount.Size = new System.Drawing.Size(97, 30);
             this.lblimportedcount.TabIndex = 35;
@@ -186,9 +186,9 @@
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.btoCancel.Enabled = false;
             this.btoCancel.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btoCancel.Location = new System.Drawing.Point(558, 4);
+            this.btoCancel.Location = new System.Drawing.Point(556, 4);
             this.btoCancel.Name = "btoCancel";
-            this.btoCancel.Size = new System.Drawing.Size(140, 24);
+            this.btoCancel.Size = new System.Drawing.Size(142, 24);
             this.btoCancel.TabIndex = 7;
             this.btoCancel.Text = "Stop Importing";
             this.btoCancel.UseVisualStyleBackColor = true;
@@ -203,7 +203,7 @@
             this.btoStart.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btoStart.Location = new System.Drawing.Point(4, 4);
             this.btoStart.Name = "btoStart";
-            this.btoStart.Size = new System.Drawing.Size(109, 24);
+            this.btoStart.Size = new System.Drawing.Size(108, 24);
             this.btoStart.TabIndex = 6;
             this.btoStart.Text = "Start Importing";
             this.btoStart.UseVisualStyleBackColor = true;
@@ -218,7 +218,7 @@
             this.lbltotalcount.BackColor = System.Drawing.Color.Transparent;
             this.lbltotalcount.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbltotalcount.ForeColor = System.Drawing.Color.Black;
-            this.lbltotalcount.Location = new System.Drawing.Point(232, 1);
+            this.lbltotalcount.Location = new System.Drawing.Point(230, 1);
             this.lbltotalcount.Name = "lbltotalcount";
             this.lbltotalcount.Size = new System.Drawing.Size(75, 30);
             this.lbltotalcount.TabIndex = 34;
@@ -234,9 +234,9 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(120, 1);
+            this.label5.Location = new System.Drawing.Point(119, 1);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(105, 30);
+            this.label5.Size = new System.Drawing.Size(104, 30);
             this.label5.TabIndex = 32;
             this.label5.Text = "Total Records :";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -250,7 +250,7 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(314, 1);
+            this.label7.Location = new System.Drawing.Point(312, 1);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(133, 30);
             this.label7.TabIndex = 33;
@@ -272,7 +272,7 @@
             this.tableLayoutPanel2.ColumnCount = 3;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 28.13456F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 71.86544F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 161F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 163F));
             this.tableLayoutPanel2.Controls.Add(this.label2, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.txtXLSFileName, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.btnBrowse, 2, 0);
@@ -290,7 +290,7 @@
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.Location = new System.Drawing.Point(4, 1);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(145, 29);
+            this.label2.Size = new System.Drawing.Size(144, 29);
             this.label2.TabIndex = 0;
             this.label2.Text = "Document Folder Path ";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -300,9 +300,9 @@
             this.txtXLSFileName.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtXLSFileName.Location = new System.Drawing.Point(156, 4);
+            this.txtXLSFileName.Location = new System.Drawing.Point(155, 4);
             this.txtXLSFileName.Name = "txtXLSFileName";
-            this.txtXLSFileName.Size = new System.Drawing.Size(379, 22);
+            this.txtXLSFileName.Size = new System.Drawing.Size(378, 22);
             this.txtXLSFileName.TabIndex = 1;
             // 
             // btnBrowse
@@ -310,9 +310,9 @@
             this.btnBrowse.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnBrowse.Location = new System.Drawing.Point(542, 4);
+            this.btnBrowse.Location = new System.Drawing.Point(540, 4);
             this.btnBrowse.Name = "btnBrowse";
-            this.btnBrowse.Size = new System.Drawing.Size(156, 23);
+            this.btnBrowse.Size = new System.Drawing.Size(158, 23);
             this.btnBrowse.TabIndex = 2;
             this.btnBrowse.Text = "Browse";
             this.btnBrowse.UseVisualStyleBackColor = true;

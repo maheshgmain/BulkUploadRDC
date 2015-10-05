@@ -193,6 +193,7 @@ namespace UploadApplication
                          
                             branchCode = RetureExcuteScaler(string.Format(@"select distinct ltrim(rtrim([Branch Code])) from tblcustomerDatails where rtrim(ltrim(lower([Branch Name])))='{0}'", branchName.Trim().ToLower()));
                             string[] filenameArray = file.Name.Split('_');
+                        //Commented for new file name given after june lot 
                             //if (filenameArray.Length == 2)
                             //{
                             //    if (filenameArray[0].Substring(0, 1) == "0")
@@ -228,6 +229,7 @@ namespace UploadApplication
                             //    acNumber = filenameArray[0].Split('.')[0];
                             //    prodCode = "0101";
                             //}
+
                             if (filenameArray.Length == 3)
                             {
                                 branchCode = filenameArray[0];
