@@ -1,0 +1,92 @@
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe.config
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.exe
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.pdb
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.pdb
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\itextsharp.dll
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\PdfSharp.dll
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\PdfToImage.dll
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form3.resources
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmUpload.resources
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form2.resources
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Properties.Resources.resources
+E:\work station\Kabra Sir\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.csproj.GenerateResource.Cache
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe.config
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.exe
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.pdb
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.pdb
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\bin\x86\Debug\itextsharp.dll
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form3.resources
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmUpload.resources
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form2.resources
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Properties.Resources.resources
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.csproj.GenerateResource.Cache
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmlogin.resources
+E:\work station\Kabra Sir\IITS OFFICE\EXCEL To DMS Bulk Upload\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmmenu.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe.config
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.exe
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.pdb
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.pdb
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form3.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmUpload.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form2.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmlogin.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmmenu.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Properties.Resources.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.csproj.GenerateResource.Cache
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form4.resources
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\Cyotek.GhostScript.dll
+E:\work station\Kabra Sir\IITS OFFICE\DMS\bulk upload\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\Cyotek.GhostScript.PdfConversion.dll
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe.config
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.exe
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.pdb
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.pdb
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\Cyotek.GhostScript.dll
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\Cyotek.GhostScript.PdfConversion.dll
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form3.resources
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmUpload.resources
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form2.resources
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form4.resources
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmlogin.resources
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmmenu.resources
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Properties.Resources.resources
+D:\RDCC\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.csproj.GenerateResource.Cache
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe.config
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.exe
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.pdb
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.exe
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\UploadApplication.pdb
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\Cyotek.GhostScript.dll
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\bin\x86\Debug\Cyotek.GhostScript.PdfConversion.dll
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form3.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmUpload.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form2.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Form4.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmlogin.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.frmmenu.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.Properties.Resources.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload\obj\x86\Debug\UploadApplication.csproj.GenerateResource.Cache
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\bin\x86\Debug\UploadApplication.exe.config
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.exe
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.pdb
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\bin\x86\Debug\UploadApplication.exe
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\bin\x86\Debug\UploadApplication.pdb
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\bin\x86\Debug\Cyotek.GhostScript.dll
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\bin\x86\Debug\Cyotek.GhostScript.PdfConversion.dll
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.Form3.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.frmUpload.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.Form2.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.Form4.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.frmlogin.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.frmmenu.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.Properties.Resources.resources
+D:\Project\DMS without membership\RDCC\EXCEL To DMS Bulk Upload New\obj\x86\Debug\UploadApplication.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[UploadApplication.csproj]
+SCC_Aux_Path = "\\Dessserver\DESS Visual Source Safe\"
+SCC_Project_Name = "$/New VSS/DMS/Upload Utility/UploadApplication", RFCBAAAA
+
+[UploadApplication.sln]
+SCC_Aux_Path = "\\Dessserver\DESS Visual Source Safe\"
+SCC_Project_Name = "$/New VSS/DMS/Upload Utility/UploadApplication", RFCBAAAA
